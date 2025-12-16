@@ -1,6 +1,7 @@
-package test
+package package
+
 import "fmt"
 
 func init() {
-	fmt.Println("Hello from go get")
+	fmt.Println("build successful")
 }
