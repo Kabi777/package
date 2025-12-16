@@ -1,5 +1,4 @@
-package testpkg
-
+package test
 import "fmt"
 
 func init() {
