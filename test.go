@@ -1,3 +1,7 @@
-package test
+package testpkg
 
-fdsvgdsfn fdbdfb bfdbdfb
+import "fmt"
+
+func init() {
+	fmt.Println("Hello from go get")
+}
